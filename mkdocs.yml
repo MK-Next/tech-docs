@@ -1,4 +1,5 @@
 site_name: Tech Docs
+site_url: https://github.com/MK-Next/tech-docs
 nav:
   - Início: index.md
   - Processos:
