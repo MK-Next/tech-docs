@@ -1,0 +1,9 @@
+site_name: Tech Docs
+nav:
+  - Início: index.md
+  - Processos:
+      - Fluxo de Deploy: process/deploy.md
+  - Decisões Técnicas:
+      - Estratégia de Autenticação: decisions/auth.md
+theme:
+  name: material
